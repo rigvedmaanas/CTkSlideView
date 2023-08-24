@@ -12,7 +12,7 @@ https://github.com/rigvedmaanas/CTkSlideView/assets/77579661/c10fb8f7-2057-4da2-
 ## How to use it?
 
 1. Download the source code.
-2. Copy and Paste the CTkSlideView python file in the directory where your python program is present.
+2. Copy and Paste the CTkSlideView.py and CTkAnimator.py in the directory where your python program is present.
 3. import the CTkSlideView
 
 ***
