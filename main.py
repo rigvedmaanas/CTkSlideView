@@ -7,7 +7,7 @@ set_default_color_theme("dark-blue")
 
 root = CTk()
 root.geometry("1800x900")
-root.title("CTk SlideMenu")
+root.title("CTk SlideView")
 
 
 #An Example For Slide Menu
